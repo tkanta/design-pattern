@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tarin
+ *
+ */
+module designpattern {
+}
